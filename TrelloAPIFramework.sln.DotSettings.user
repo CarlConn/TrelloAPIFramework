@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b4dba8e_002D2fb7_002D4a75_002D847c_002D40a1e0300f52/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateBoard" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::39CE5008-A7DB-4A39-B7D2-BA987A11CCDC::net5.0::TrelloAPIFramework.UnitTests.Baords.CreateBoard&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8056e111_002D39e5_002D4d79_002Da074_002Dc3d04f767c6d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateBoard #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::39CE5008-A7DB-4A39-B7D2-BA987A11CCDC::net5.0::TrelloAPIFramework.UnitTests.Baords.CreateBoard&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=941347ea_002D5644_002D43ce_002D8f5d_002Da369fbe9c935/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateBoard #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::39CE5008-A7DB-4A39-B7D2-BA987A11CCDC::net5.0::TrelloAPIFramework.UnitTests.Baords.CreateBoard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::39CE5008-A7DB-4A39-B7D2-BA987A11CCDC::net5.0::TrelloAPIFramework.UnitTests.Baords.DeleteBoard&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::39CE5008-A7DB-4A39-B7D2-BA987A11CCDC::net5.0::TrelloAPIFramework.UnitTests.Baords.BoardCreateList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b2a984c0_002D4882_002D4741_002Da7f5_002Db5009f402783/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateBoard #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::39CE5008-A7DB-4A39-B7D2-BA987A11CCDC::net5.0::TrelloAPIFramework.UnitTests.Baords.CreateBoard&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
