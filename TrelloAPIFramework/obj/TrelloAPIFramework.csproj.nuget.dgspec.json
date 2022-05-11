@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\TrelloAPIFramework.csproj": {}
+    "C:\\Users\\caco1743.CLUB_260_WA_SEA\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\TrelloAPIFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\TrelloAPIFramework.csproj": {
+    "C:\\Users\\caco1743.CLUB_260_WA_SEA\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\TrelloAPIFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\TrelloAPIFramework.csproj",
+        "projectUniqueName": "C:\\Users\\caco1743.CLUB_260_WA_SEA\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\TrelloAPIFramework.csproj",
         "projectName": "TrelloAPIFramework",
-        "projectPath": "C:\\Users\\Admin\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\TrelloAPIFramework.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\obj\\",
+        "projectPath": "C:\\Users\\caco1743.CLUB_260_WA_SEA\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\TrelloAPIFramework.csproj",
+        "packagesPath": "C:\\Users\\caco1743.CLUB_260_WA_SEA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caco1743.CLUB_260_WA_SEA\\RiderProjects\\TrelloAPIFramework\\TrelloAPIFramework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caco1743.CLUB_260_WA_SEA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -43,13 +40,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[2.2.10, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.3, )"
+              "version": "[2.2.10, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
